@@ -15,5 +15,5 @@ function inc(x){
   return x;
 }
 function dec(x){
-  return x--;
+  return x-=1;
 }

@@ -10,9 +10,9 @@ function multiply(x,y){
 function divide(x,y){
   return x/y;
 }
-function increment(x){
+function inc(x){
   return x++;
 }
-function decrement(x){
+function dec(x){
   return x--;
 }

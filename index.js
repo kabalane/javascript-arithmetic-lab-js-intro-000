@@ -17,6 +17,6 @@ function inc(x){
 function dec(x){
   return x-=1;
 }
-function makeint(s){
+function makeInt(s){
   return parseint(x,10);
 }
